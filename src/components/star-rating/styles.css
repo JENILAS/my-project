@@ -1,0 +1,12 @@
+.active {
+  color: yellow;
+}
+.inactive {
+  color: black;
+}
+.header {
+  color: rgb(213, 113, 6);
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
